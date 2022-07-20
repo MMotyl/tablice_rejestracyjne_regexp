@@ -1,0 +1,171 @@
+[
+    {
+        "_comment": "https://pl.wikipedia.org/wiki/Tablice_rejestracyjne_w_Polsce",
+        "typ": "powiat 2lit #1",
+        "reg": "^[A-Z]{2}[0-9]{5}$"
+    },
+    {
+        "typ": "powiat 2lit #2",
+        "reg": "^[A-Z]{2}[0-9]{4}[A-Z]$"
+    },
+    {
+        "typ": "powiat 2lit #3",
+        "reg": "^[A-Z]{2}[0-9]{3}[A-Z]{2}$"
+    },
+    {
+        "typ": "powiat 2lit #4",
+        "reg": "^[A-Z]{2}[1-9][A-Z][0-9]{3}$"
+    },
+    {
+        "typ": "powiat 2lit #5",
+        "reg": "^[A-Z]{2}[1-9][A-Z]{2}[0-9]{2}$"
+    },
+    {
+        "typ": "powiat 3lit #1",
+        "reg": "^[A-Z]{4}[0-9]{3}$"
+    },
+    {
+        "typ": "powiat 3lit #2",
+        "reg": "^[A-Z]{3}[0-9]{2}[A-Z]{2}$"
+    },
+    {
+        "typ": "powiat 3lit #3",
+        "reg": "^[A-Z]{3}[1-9][A-Z][0-9]{2}$"
+    },
+    {
+        "typ": "powiat 3lit #4",
+        "reg": "^[A-Z]{3}[0-9]{2}[A-Z][1-9]$"
+    },
+    {
+        "typ": "powiat 3lit #5",
+        "reg": "^[A-Z]{3}[1-9][A-Z]{2}[1-9]$"
+    },
+    {
+        "typ": "powiat 3lit #6",
+        "reg": "^[A-Z]{5}[0-9]{2}$"
+    },
+    {
+        "typ": "powiat 3lit #7",
+        "reg": "^[A-Z]{3}[1-9]{5}$"
+    },
+    {
+        "typ": "powiat 3lit #8",
+        "reg": "^[A-Z]{3}[0-9]{4}[A-Z]$"
+    },
+    {
+        "typ": "powiat 3lit #9",
+        "reg": "^[A-Z]{3}[1-9]{3}[A-Z]{2}$"
+    },
+    {
+        "typ": "powiat 3lit #10",
+        "reg": "^[A-Z]{4}[0-9]{2}[A-Z]$"
+    },
+    {
+        "typ": "powiat 3lit #11",
+        "reg": "^[A-Z]{4}[1-9][A-Z]{2}$"
+    },
+    {
+        "typ": "zmniejszone #1",
+        "reg": "^[A-Z][0-9]{3}$"
+    },
+    {
+        "typ": "zmniejszone #2",
+        "reg": "^[A-Z][0-9]{2}[A-Z]$"
+    },
+    {
+        "typ": "zmniejszone #3",
+        "reg": "^[A-Z][1-9][A-Z][1-9]$"
+    },
+    {
+        "typ": "zmniejszone #4",
+        "reg": "^[A-Z]{2}[0-9]{2}$"
+    },
+    {
+        "typ": "zmniejszone #5",
+        "reg": "^[A-Z][1-9][A-Z]{2}$"
+    },
+    {
+        "typ": "zmniejszone #6",
+        "reg": "^[A-Z]{3}[0-9]{1}$"
+    },
+    {
+        "typ": "zmniejszone #7",
+        "reg": "^[A-Z]{2}[1-9]{1}[A-Z]{1}$"
+    },
+    {
+        "typ": "moto #1",
+        "reg": "^[A-Z]{2}[0-9]{4}$"
+    },
+    {
+        "typ": "moto #2",
+        "reg": "^[A-Z]{2}[0-9]{3}[A-Z]{1}$"
+    },
+    {
+        "typ": "moto #3",
+        "reg": "^[A-Z]{2}[1-9]{2}[A-Z][1-9]$"
+    },
+    {
+        "typ": "moto #4",
+        "reg": "^[A-Z]{2}[1-9]{1}[A-Z]{1}[0-9]{2}$"
+    },
+    {
+        "typ": "moto #5",
+        "reg": "^[A-Z]{3}[1-9]{3}$"
+    },
+    {
+        "typ": "moto #6",
+        "reg": "^[A-Z]{2}[0-9]{2}[A-Z]{2}$"
+    },
+    {
+        "typ": "moto #7",
+        "reg": "^[A-Z]{2}[1-9]{1}[A-Z]{2}[1-9]$"
+    },
+    {
+        "typ": "moto #8",
+        "reg": "^[A-Z]{4}[1-9]{2}$"
+    },
+    {
+        "typ": "moto #9 old",
+        "reg": "^[A-Z]{2}[0-9]{4}[A-Z]{4}[0-9]{3}$"
+    },
+    {
+        "typ": "tymczasowe #1",
+        "reg": "^[A-Z]{1}[1-9]{5}$"
+    },
+    {
+        "typ": "tymczasowe #2",
+        "reg": "^[A-Z]{1}[0-9]{4}[A-Z]{1}$"
+    },
+    {
+        "typ": "pro #1",
+        "reg": "^[A-Z]{1}[1-9]{4}P[1-9]{2}$"
+    },
+    {
+        "typ": "pro #2",
+        "reg": "^[A-Z]{1}[1-9]{4}P[1-9]{1}[A-Z]{1}$"
+    },
+    {
+        "typ": "Tablice indywidualne.",
+        "reg": "^[A-Z]{1}[1-9][A-Z]{1}[A-Z0-9]{2,4}$"
+    },
+    {
+        "typ": "zabytkowe powiat 2lit #1",
+        "reg": "^[A-Z]{2}[0-9]{2}[A-Z]{1}$"
+    },
+    {
+        "typ": "zabytkowe powiat 2lit #2",
+        "reg": "^[A-Z]{2}[0-9]{3}$"
+    },
+    {
+        "typ": "zabytkowe powiat 3lit #1",
+        "reg": "^[A-Z]{3}[1-9]{1}[A-Z]{1}$"
+    },
+    {
+        "typ": "zabytkowe powiat 3lit #2",
+        "reg": "^[A-Z]{3}[1-9]{2}$"
+    },
+    {
+        "typ": "zabytkowe powiat 3lit #3",
+        "reg": "^[A-Z]{4}[1-9]{1}$"
+    }
+]
